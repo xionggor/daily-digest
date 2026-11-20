@@ -1,0 +1,66 @@
+{
+  "site": {
+    "title": "今日视界",
+    "subtitle": "技术、智能与世界的每日观察",
+    "lang": "zh-CN",
+    "max_items": 140,
+    "max_items_per_source": 6
+  },
+  "categories": [
+    { "key": "tech", "label": "科技" },
+    { "key": "ai", "label": "AI" },
+    { "key": "market", "label": "股票" },
+    { "key": "world", "label": "世界大事" }
+  ],
+  "github": {
+    "enabled": true,
+    "days": 14,
+    "min_stars": 60,
+    "limit": 9
+  },
+  "quotes": [
+    { "symbol": "^GSPC", "name": "标普 500" },
+    { "symbol": "^IXIC", "name": "纳斯达克" },
+    { "symbol": "^DJI", "name": "道琼斯" },
+    { "symbol": "^VIX", "name": "波动率指数" },
+    { "symbol": "^TNX", "name": "美债 10 年" },
+    { "symbol": "^HSI", "name": "恒生指数" },
+    { "symbol": "000001.SS", "name": "上证指数" },
+    { "symbol": "^N225", "name": "日经 225" },
+    { "symbol": "GC=F", "name": "黄金" },
+    { "symbol": "CL=F", "name": "原油" },
+    { "symbol": "BTC-USD", "name": "比特币" },
+    { "symbol": "DX-Y.NYB", "name": "美元指数" }
+  ],
+  "sources": [
+    { "name": "Hacker News", "category": "tech", "url": "https://hnrss.org/frontpage" },
+    { "name": "The Verge", "category": "tech", "url": "https://www.theverge.com/rss/index.xml" },
+    { "name": "Ars Technica", "category": "tech", "url": "https://feeds.arstechnica.com/arstechnica/index" },
+    { "name": "TechCrunch", "category": "tech", "url": "https://techcrunch.com/feed/" },
+    { "name": "Engadget", "category": "tech", "url": "https://www.engadget.com/rss.xml" },
+    { "name": "少数派", "category": "tech", "url": "https://sspai.com/feed" },
+    { "name": "爱范儿", "category": "tech", "url": "https://www.ifanr.com/feed" },
+    { "name": "cnBeta", "category": "tech", "url": "https://www.cnbeta.com.tw/backend.php" },
+
+    { "name": "MIT Tech Review", "category": "ai", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed" },
+    { "name": "Hugging Face", "category": "ai", "url": "https://huggingface.co/blog/feed.xml" },
+    { "name": "Google AI", "category": "ai", "url": "https://blog.google/technology/ai/rss/" },
+    { "name": "OpenAI", "category": "ai", "url": "https://openai.com/news/rss.xml" },
+    { "name": "DeepMind", "category": "ai", "url": "https://deepmind.google/blog/rss.xml" },
+    { "name": "The Decoder", "category": "ai", "url": "https://the-decoder.com/feed/" },
+    { "name": "arXiv cs.AI", "category": "ai", "url": "https://export.arxiv.org/rss/cs.AI", "insecure": true },
+
+    { "name": "CNBC Markets", "category": "market", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html" },
+    { "name": "MarketWatch", "category": "market", "url": "https://feeds.marketwatch.com/marketwatch/topstories/" },
+    { "name": "Investing.com", "category": "market", "url": "https://www.investing.com/rss/news.rss" },
+    { "name": "Seeking Alpha", "category": "market", "url": "https://seekingalpha.com/market_currents.xml" },
+
+    { "name": "BBC World", "category": "world", "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
+    { "name": "BBC 中文", "category": "world", "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml" },
+    { "name": "The Guardian", "category": "world", "url": "https://www.theguardian.com/world/rss" },
+    { "name": "Al Jazeera", "category": "world", "url": "https://www.aljazeera.com/xml/rss/all.xml" },
+    { "name": "NPR World", "category": "world", "url": "https://feeds.npr.org/1004/rss.xml" },
+    { "name": "CNN World", "category": "world", "url": "http://rss.cnn.com/rss/cnn_world.rss" },
+    { "name": "纽约时报中文", "category": "world", "url": "https://cn.nytimes.com/rss/" }
+  ]
+}
