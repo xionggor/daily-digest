@@ -168,6 +168,26 @@ body{
   border-radius:4px;padding:2px 5px;margin-right:6px;
 }
 
+/* ===== 影响市场标记 ===== */
+.tag-impact{
+  display:inline-block;flex:none;margin-left:5px;padding:0 4px;
+  border:1px solid var(--accent);color:var(--accent);border-radius:3px;
+  font-size:9.5px;line-height:1.6;letter-spacing:.02em;white-space:nowrap;
+}
+
+.item .tag-impact{margin-left:0;margin-top:5px}
+
+/* ===== 往期归档 ===== */
+.arch-bar{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:26px 0 4px}
+.arch-chip{
+  font:inherit;font-size:11.5px;letter-spacing:.02em;color:var(--ink-2);
+  background:var(--card);border:1px solid var(--line);border-radius:999px;
+  padding:5px 11px;cursor:pointer;transition:border-color .16s,color .16s;
+}
+.arch-chip:hover{border-color:var(--ink-3);color:var(--ink)}
+.arch-chip[aria-selected="true"]{border-color:var(--ink);color:var(--ink);background:#fff}
+.arch-note{margin-left:auto;font-size:11px;color:var(--ink-3);white-space:nowrap}
+
 /* ===== 日期分组 ===== */
 .day{margin-top:36px}
 .day-h{display:flex;align-items:baseline;gap:12px;margin-bottom:2px}
@@ -263,6 +283,8 @@ const CAT_LABEL = {};
 
 const state = { cat: "all", q: "" };
 const feed = $("#feed");
+let LIVE_ITEMS = DATA.items;
+const ARCH = { list: [], cache: {}, current: "", failed: false };
 const WEEK = "日一二三四五六";
 
 function esc(v) {
@@ -309,9 +331,13 @@ function renderHeader() {
 }
 
 function renderTabs() {
-  const counts = { all: DATA.items.length };
-  DATA.items.forEach(it => { counts[it.category] = (counts[it.category] || 0) + 1; });
+  const counts = { all: LIVE_ITEMS.length };
+  LIVE_ITEMS.forEach(it => { counts[it.category] = (counts[it.category] || 0) + 1; });
   counts.github = (DATA.repos || []).length;
+
+  const extraImpact = LIVE_ITEMS.filter(it => it.category !== "market" && it.impact).length;
+  if (extraImpact) counts.market = (counts.market || 0) + extraImpact;
+  counts.archive = ARCH.list.length;
 
   const list = [{ key: "all", label: "全部" }];
   (DATA.categories || []).forEach(c => {
@@ -321,6 +347,7 @@ function renderTabs() {
   if (!(DATA.categories || []).some(c => c.key === "ai") && counts.github) {
     list.push({ key: "github", label: "GitHub" });
   }
+  if (ARCH.list.length) list.push({ key: "archive", label: "往期" });
 
   $("#tabs").innerHTML = list.map(c =>
     '<button class="tab" data-cat="' + c.key + '" aria-selected="' + (state.cat === c.key) + '">' +
@@ -335,6 +362,7 @@ function itemHTML(it) {
     '<div class="imeta">' +
       "<time>" + (d ? hhmm(d) : "") + "</time>" +
       '<span class="src">' + (it.fresh ? '<span class="badge-new">新</span>' : "") + '<i class="dot" style="background:' + (CAT_COLOR[it.category] || "var(--ink-3)") + '"></i>' + esc(it.source) + "</span>" +
+      (it.impact ? '<span class="tag-impact">影响市场</span>' : "") +
     "</div>" +
     '<div class="ibody"><h3>' + esc(it.title) + "</h3>" +
       (it.summary ? "<p>" + esc(it.summary) + "</p>" : "") +
@@ -345,6 +373,7 @@ function featuredHTML(it) {
   const d = toDate(it.published);
   return '<a class="featured" data-i="' + DATA.items.indexOf(it) + '" href="' + esc(it.url) + '" target="_blank" rel="noopener noreferrer">' +
     '<div class="kicker">' + (it.fresh ? '<span class="badge-new">新</span>' : "") + '今日焦点<span class="sep">/</span>' + esc(CAT_LABEL[it.category] || "") +
+      (it.impact ? '<span class="tag-impact">影响市场</span>' : "") +
       '<span class="sep">·</span><span class="src">' + esc(it.source) + "</span>" +
       (d ? '<span class="sep">·</span><span class="src">' + mdhm(d) + "</span>" : "") + "</div>" +
     "<h2>" + esc(it.title) + "</h2>" +
@@ -425,42 +454,36 @@ function renderGithub(q) {
 
 function filtered() {
   const q = state.q.toLowerCase();
+  const cat = state.cat;
   return DATA.items.filter(it => {
-    if (state.cat !== "all" && it.category !== state.cat) return false;
+    if (cat !== "all" && cat !== "archive") {
+      if (cat === "market") {
+        if (it.category !== "market" && !it.impact) return false;
+      } else if (it.category !== cat) {
+        return false;
+      }
+    }
     if (!q) return true;
     return ((it.title || "") + " " + (it.source || "") + " " + (it.summary || "")).toLowerCase().indexOf(q) >= 0;
   });
 }
 
-function render() {
-  resetTranslateState();
-  const isGH = state.cat === "github";
-  const ghBox = $("#gh");
-
-  if (isGH) {
-    feed.hidden = true;
-    feed.innerHTML = "";
-    renderGithub(state.q);
-    return;
-  }
-
-  feed.hidden = false;
-  if (ghBox) ghBox.hidden = true;
-
-  const items = filtered();
+/* 统一列表渲染：日期分组 + 可选头条 + 可选前置区块（行情 / 归档日期条） */
+function renderFeed(items, opts) {
+  opts = opts || {};
   feed.innerHTML = "";
-  if (state.cat === "market" && (DATA.quotes || []).length) {
-    feed.insertAdjacentHTML("beforeend", quotesHTML());
-  }
+  if (opts.pre) feed.insertAdjacentHTML("beforeend", opts.pre);
+  if (opts.quotes) feed.insertAdjacentHTML("beforeend", quotesHTML());
+
   if (!items.length) {
-    if (!(state.cat === "market" && (DATA.quotes || []).length)) {
+    if (!opts.quotes) {
       feed.insertAdjacentHTML("beforeend", '<div class="empty">没有找到匹配的内容。换个关键词，或切回「全部」看看。</div>');
     }
     return;
   }
 
   let rest = items;
-  if (state.cat === "all" && !state.q && items.length >= 4) {
+  if (opts.featured && items.length >= 4) {
     feed.insertAdjacentHTML("beforeend", featuredHTML(items[0]));
     rest = items.slice(1);
   }
@@ -479,6 +502,79 @@ function render() {
       '<section class="day"><div class="day-h"><h2>' + dayLabel(g.date) + "</h2><span>" + g.items.length + " 条</span></div>" +
       g.items.map(itemHTML).join("") + "</section>");
   }
+}
+
+function render() {
+  resetTranslateState();
+  const ghBox = $("#gh");
+
+  if (state.cat === "github") {
+    feed.hidden = true;
+    feed.innerHTML = "";
+    renderGithub(state.q);
+    return;
+  }
+
+  feed.hidden = false;
+  if (ghBox) ghBox.hidden = true;
+
+  if (state.cat === "archive") { renderArchive(); return; }
+
+  DATA.items = LIVE_ITEMS;
+  renderFeed(filtered(), {
+    quotes: state.cat === "market" && (DATA.quotes || []).length > 0,
+    featured: state.cat === "all" && !state.q
+  });
+}
+
+/* ---------------- 往期归档 ---------------- */
+async function renderArchive() {
+  if (!ARCH.list.length) {
+    feed.innerHTML = '<div class="empty">还没有归档。每日任务跑过一次之后，这里会按日期列出来。</div>';
+    return;
+  }
+
+  const date = ARCH.current || ARCH.list[0];
+  ARCH.current = date;
+  const bar = '<div class="arch-bar">' + ARCH.list.map(d =>
+      '<button type="button" class="arch-chip" data-date="' + esc(d) + '" aria-selected="' + (d === date) + '">' + esc(d) + "</button>"
+    ).join("") + '<span class="arch-note">共 ' + ARCH.list.length + ' 天</span></div>';
+
+  if (!ARCH.cache[date]) {
+    feed.innerHTML = bar + '<div class="empty">正在载入 ' + esc(date) + " …</div>";
+    try {
+      const res = await fetch("archive/" + date + ".json", { cache: "no-store" });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      ARCH.cache[date] = await res.json();
+    } catch (e) {
+      feed.innerHTML = bar + '<div class="empty">这一天的内容没取到。</div>';
+      return;
+    }
+  }
+
+  DATA.items = (ARCH.cache[date].items || []).slice();
+  renderTabs();
+  renderFeed(filtered(), { pre: bar });
+}
+
+feed.addEventListener("click", e => {
+  const chip = e.target.closest(".arch-chip");
+  if (!chip) return;
+  ARCH.current = chip.dataset.date;
+  renderArchive();
+});
+
+async function loadArchiveIndex() {
+  try {
+    const res = await fetch("archive/index.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const j = await res.json();
+    ARCH.list = (j && j.dates) || [];
+  } catch (e) {
+    ARCH.failed = true;
+    ARCH.list = [];
+  }
+  renderTabs();
 }
 
 /* ---------------- 统一翻译 ---------------- */
@@ -740,6 +836,32 @@ async function fetchSourceLive(src) {
   return out;
 }
 
+/* 手动刷新时顺带拉一次行情（走 allorigins 代理绕过 CORS，失败就保留原快照） */
+async function refreshQuotes() {
+  const qs = DATA.quotes || [];
+  if (!qs.length) return 0;
+  let ok = 0;
+  await Promise.all(qs.map(async function (q) {
+    const api = "https://query1.finance.yahoo.com/v8/finance/chart/" +
+      encodeURIComponent(q.symbol) + "?range=1d&interval=1d";
+    try {
+      const res = await fetch("https://api.allorigins.win/raw?url=" + encodeURIComponent(api));
+      if (!res.ok) return;
+      const j = await res.json();
+      const meta = j.chart.result[0].meta;
+      const price = meta && meta.regularMarketPrice;
+      const prev = meta && (meta.chartPreviousClose || meta.previousClose);
+      if (!price || !prev) return;
+      q.price = price;
+      q.change = price - prev;
+      q.pct = (price - prev) / prev * 100;
+      ok++;
+    } catch (e) {}
+  }));
+  if (ok) DATA.quote_at = new Date().toISOString();
+  return ok;
+}
+
 function mergeFresh(list) {
   function keyOf(u) { return String(u || "").split("?")[0].replace(/\/+$/, ""); }
   const known = new Set((DATA.items || []).map(function (it) { return keyOf(it.url); }));
@@ -751,7 +873,8 @@ function mergeFresh(list) {
     fresh.push(it);
   });
   if (!fresh.length) return 0;
-  DATA.items = fresh.concat(DATA.items).slice(0, 220);
+  LIVE_ITEMS = fresh.concat(LIVE_ITEMS).slice(0, 220);
+  DATA.items = LIVE_ITEMS;
   renderTabs();
   render();
   renderHeader();
@@ -764,6 +887,12 @@ async function manualRefresh() {
 
   if (state.cat === "github") {
     btn.textContent = "项目每日更新";
+    setTimeout(function () { btn.textContent = "刷新"; }, 1600);
+    return;
+  }
+
+  if (state.cat === "archive") {
+    btn.textContent = "往期不可刷新";
     setTimeout(function () { btn.textContent = "刷新"; }, 1600);
     return;
   }
@@ -799,9 +928,16 @@ async function manualRefresh() {
     failed = true;
   }
 
-  if (count) {
+  let qn = 0;
+  if (state.cat === "market") {
+    btn.textContent = "刷新行情…";
+    qn = await refreshQuotes();
+    render();
+  }
+
+  if (count || qn) {
     $("#updated").textContent = "更新于 " + mdhm(new Date());
-    btn.textContent = "新增 " + count;
+    btn.textContent = count ? "新增 " + count : "行情已更新";
   } else if (failed) {
     btn.textContent = "刷新失败";
     btn.title = "实时抓取暂不可用（代理限流或网络问题），页面仍按每日任务更新";
@@ -836,6 +972,7 @@ $("#search").addEventListener("input", e => {
 renderHeader();
 renderTabs();
 render();
+loadArchiveIndex();
 </script>
 </body>
 </html>

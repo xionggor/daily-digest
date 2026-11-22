@@ -34,6 +34,7 @@ SOURCES_FILE = ROOT / "sources.json"
 TEMPLATE_FILE = ROOT / "template.html"
 OUT_HTML = ROOT / "index.html"
 OUT_JSON = ROOT / "data.json"
+ARCHIVE_DIR = ROOT / "archive"
 
 UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -112,6 +113,67 @@ def parse_date(value):
         except Exception:
             continue
     return None
+
+
+# ---------------------------------------------------------------- 市场影响判定
+
+# 会传导到股市的消息：地缘冲突、制裁、关税、货币政策、大宗商品供给
+MARKET_RE = re.compile(
+    r"\b(war|wars|warfare|airstrikes?|strikes?|missiles?|invasion|ceasefire|sanctions?|"
+    r"tariffs?|embargo|embargoes|recession|inflation|deflation|opec|nato|coup|"
+    r"stimulus|geopolit\w*|rate cut|rate hike|federal reserve|central bank|"
+    r"debt ceiling|interest rates?|export controls?|chip ban|semiconductor ban|"
+    r"oil supply|crude oil|bond yields?|devalu\w+)\b",
+    re.I,
+)
+MARKET_CN = (
+    "战争", "导弹", "空袭", "制裁", "关税", "禁运", "加息", "降息", "通胀", "通缩",
+    "衰退", "停火", "冲突", "出口管制", "断供", "原油", "欧佩克", "美联储", "央行",
+    "债务上限", "大选", "选举", "汇率", "贬值", "国债收益率", "地缘",
+)
+
+
+def mark_market_impact(items):
+    """给可能与市场相关的条目打上 impact 标记（只加标记，不改变分类）"""
+    for it in items:
+        if it.get("category") == "market":
+            continue
+        blob = (it.get("title") or "") + " " + (it.get("summary") or "")
+        if MARKET_RE.search(blob) or any(word in blob for word in MARKET_CN):
+            it["impact"] = True
+    return sum(1 for it in items if it.get("impact"))
+
+
+def write_archive(data, now):
+    """每天存一份快照，并维护 archive/index.json，只保留最近 45 天"""
+    ARCHIVE_DIR.mkdir(exist_ok=True)
+    bj = now.astimezone(timezone(timedelta(hours=8)))
+    day = bj.strftime("%Y-%m-%d")
+    payload = {
+        "date": day,
+        "generated_at": data["generated_at"],
+        "items": data["items"],
+        "repos": data.get("repos") or [],
+        "quotes": data.get("quotes") or [],
+    }
+    (ARCHIVE_DIR / (day + ".json")).write_text(
+        json.dumps(payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
+    )
+
+    files = sorted(
+        (p for p in ARCHIVE_DIR.glob("*.json") if p.stem != "index"),
+        key=lambda p: p.stem, reverse=True,
+    )
+    for stale in files[45:]:
+        try:
+            stale.unlink()
+        except OSError:
+            pass
+    keep = [p.stem for p in files[:45]]
+    (ARCHIVE_DIR / "index.json").write_text(
+        json.dumps({"dates": keep}, ensure_ascii=False), encoding="utf-8"
+    )
+    return day, keep
 
 
 # ---------------------------------------------------------------- 网络请求
@@ -365,6 +427,8 @@ def build(args):
         print("\n只抓到 %d 条，低于安全阈值，保留上一版 index.html 不覆盖。" % len(unique))
         return 1
 
+    impact_n = mark_market_impact(unique)
+
     repos = []
     try:
         repos = fetch_github(config.get("github"))
@@ -399,11 +463,17 @@ def build(args):
 
     OUT_JSON.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
 
+    try:
+        day, kept = write_archive(data, now)
+        print("归档：archive/%s.json，共 %d 天" % (day, len(kept)))
+    except Exception as exc:
+        print("归档写入失败（不影响页面）：%s: %s" % (type(exc).__name__, str(exc)[:100]))
+
     template = TEMPLATE_FILE.read_text(encoding="utf-8")
     payload = json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     OUT_HTML.write_text(template.replace("__DATA__", payload), encoding="utf-8")
 
-    print("\n完成：%d 条，来源 %d/%d 可用 → %s" % (len(unique), ok_sources, len(sources), OUT_HTML.name))
+    print("\n完成：%d 条（其中 %d 条标记为影响市场），来源 %d/%d 可用 → %s" % (len(unique), impact_n, ok_sources, len(sources), OUT_HTML.name))
     if failed:
         print("失败源：%s" % "、".join(name for name, _ in failed))
     return 0
