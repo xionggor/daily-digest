@@ -21,210 +21,893 @@
    "label": "世界大事"
   }
  ],
- "generated_at": "2026-11-25T04:47:53.939638+00:00",
+ "generated_at": "2026-11-26T03:58:47.135653+00:00",
  "source_count": 25,
  "items": [
   {
-   "title": "Dollar takes breather before key inflation reading; Aussie slumps",
-   "url": "https://www.investing.com/news/economy-news/dollar-takes-breather-ahead-of-us-data-on-fed-path-aussie-jumps-on-cpi-5049486",
-   "source": "Investing.com",
-   "category": "market",
-   "summary": "",
-   "published": "2026-11-25T04:42:51+00:00"
-  },
-  {
-   "title": "Nvidia’s Huang said he violated code of conduct, source says",
-   "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
-   "source": "Investing.com",
-   "category": "market",
-   "summary": "",
-   "published": "2026-11-25T04:42:36+00:00"
-  },
-  {
-   "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
-   "url": "https://www.investing.com/news/stock-market-news/huangs-return-to-nvidia-brings-openweight-ai-debate-to-forefront-in-washington-5049260",
-   "source": "Investing.com",
-   "category": "market",
-   "summary": "",
-   "published": "2026-11-25T04:42:21+00:00"
-  },
-  {
-   "title": "BlackRock, IFM may cut offer for Stack's Asia-Pacific data centers - report",
-   "url": "https://seekingalpha.com/news/4676429-blackrock-ifm-may-cut-offer-for-stacks-asia-pacific-data-centers---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "source": "Seeking Alpha",
-   "category": "market",
-   "summary": "",
-   "published": "2026-11-25T04:40:05+00:00"
-  },
-  {
-   "title": "Burry says Nvidia's 'short thesis' still valid; adds to JD.com, Tencent, BYD",
-   "url": "https://seekingalpha.com/news/4676427-burry-says-nvidias-short-thesis-still-valid-adds-to-jdcom-tencent-byd?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "source": "Seeking Alpha",
-   "category": "market",
-   "summary": "",
-   "published": "2026-11-25T04:37:07+00:00"
-  },
-  {
-   "title": "Show HN: U.S. Interstate Weather",
-   "url": "https://www.interstateweather.com/",
-   "source": "Hacker News",
+   "title": "官员质疑反对SpaceX数据中心联署的签名来源 称多达七成来自非本地居民",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587990.htm",
+   "source": "cnBeta",
    "category": "tech",
-   "summary": "In case you're going on a road trip this week in the lower 48 (Thanksgiving is a big U.S holiday on Thursday).",
-   "published": "2026-11-25T04:35:32+00:00"
+   "summary": "亚利桑那州科奇斯县一名县监事近日对针对SpaceX拟建数据中心的有组织反对行动提出质疑，称近期一份反对请愿书上的签名中，多达70%来自非本县居民。科奇斯县规划与分区委员会预计将在12月决定，是否向负责建设该项目的Tombstone Resources LLC授予特殊土地使用许可。",
+   "published": "2026-11-26T03:54:42+00:00"
   },
   {
-   "title": "Urban Outfitters expects Q4 sales growth in the mid-single-digit range as promotions rise at Anthropologie",
-   "url": "https://seekingalpha.com/news/4676430-urban-outfitters-expects-q4-sales-growth-in-the-mid-single-digit-range-as-promotions-rise-at?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "source": "Seeking Alpha",
-   "category": "market",
-   "summary": "",
-   "published": "2026-11-25T04:32:46+00:00"
+   "title": "Google“我的频道”专利曝光 让用户成为AI生成内容的主角",
+   "url": "https://www.cnbeta.com.tw/articles/movie/1587988.htm",
+   "source": "cnBeta",
+   "category": "tech",
+   "summary": "Google去年提交了一项名为“我的频道”的专利申请，该系统旨在根据公司掌握的用户信息，生成充满个性化AI视频和广告的信息流。这项专利此前遭到驳回，但Google仍可能提出上诉或重新提交修改版本，因此这一设想未来仍有可能进入市场。",
+   "published": "2026-11-26T03:54:01+00:00"
   },
   {
-   "title": "Commerce Bancshares SVP sells $69,049 in company stock",
-   "url": "https://www.investing.com/news/insider-trading-news/commerce-bancshares-svp-sells-69049-in-company-stock-93CH-5049693",
-   "source": "Investing.com",
-   "category": "market",
-   "summary": "",
-   "published": "2026-11-25T04:31:00+00:00"
+   "title": "“无AI游戏节”登场：独立开发者用90余款作品回应Steam“AI垃圾”争议",
+   "url": "https://www.cnbeta.com.tw/articles/game/1587986.htm",
+   "source": "cnBeta",
+   "category": "tech",
+   "summary": "2026年10月的Steam新品节原本是展示各类开发者作品的舞台，但这一届却因大量粗制滥造、疑似由AI生成的“AI垃圾游戏”涌入而引发争议。许多玩家和游戏开发者在社交媒体上表达不满，认为这些项目缺乏打磨，质量堪忧。Valve此前表示，不愿充当把关者去封禁AI游戏，而“无AI游戏节”（Games Without AI Festival）正是对这一现象的直接回应…",
+   "published": "2026-11-26T03:52:22+00:00"
   },
   {
-   "title": "RingCentral accounting chief sells $75,292 in common stock",
-   "url": "https://www.investing.com/news/insider-trading-news/ringcentral-accounting-chief-sells-75292-in-common-stock-93CH-5049692",
-   "source": "Investing.com",
-   "category": "market",
-   "summary": "",
-   "published": "2026-11-25T04:30:59+00:00"
+   "title": "Ubuntu公布AI桌面整合方案：可选、本地优先、隐私与安全并重",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587984.htm",
+   "source": "cnBeta",
+   "category": "tech",
+   "summary": "生成式AI在开源社区一直颇具争议，而希望兼顾AI使用与社区立场的方案之一，是采用本地模型。Ubuntu在Linux桌面上的新AI整合，似乎也将走这条路线。根据最新公布的计划，Ubuntu在AI的实现方式上几乎与微软在Windows中的做法相反。",
+   "published": "2026-11-26T03:51:51+00:00"
   },
   {
-   "title": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
+   "title": "公司治理与“关键人物”风险引发担忧 标普考虑下调英伟达信用评级",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587982.htm",
+   "source": "cnBeta",
+   "category": "tech",
+   "summary": "全球三大信用评级机构之一的标普全球评级正在考虑下调英伟达的信用评级，理由是对该公司的管理层和治理实践感到担忧。标普在声明中表示，尽管英伟达财务表现强劲，但首席执行官黄仁勋被罢免后又复职一事，引发了外界对“高管监督薄弱、缺乏继任计划”以及“关键人物风险”的担忧。",
+   "published": "2026-11-26T03:49:16+00:00"
+  },
+  {
+   "title": "FCC批准SpaceX在太空部署AI数据中心",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587980.htm",
+   "source": "cnBeta",
+   "category": "tech",
+   "summary": "美国联邦通信委员会（FCC）于周三有条件批准SpaceX部署并运营一个最多由100万颗卫星组成的星座，用于其轨道数据中心业务。这被视为埃隆·马斯克将AI数据中心送入太空计划的一次重要监管胜利。",
+   "published": "2026-11-26T03:48:48+00:00"
+  },
+  {
+   "title": "专访《影之刃零》梁其伟：我想让年轻人觉得，中国功夫很酷丨多样性公司",
+   "url": "https://www.ifanr.com/1695256?utm_source=rss&utm_medium=rss&utm_campaign",
+   "source": "爱范儿",
+   "category": "tech",
+   "summary": "中国功夫，也能很酷 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "published": "2026-11-26T03:48:29+00:00"
+  },
+  {
+   "title": "Australian politics live: Liberals ‘tossing up whether to leave or remain’, Albanese says; Coalition warns energy prices to cause Christmas ‘pain’",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
    "source": "The Guardian",
    "category": "world",
-   "summary": "Clubs fail to sign up for 2027 season as disquiet over governing body’s executive grips football community About 100 football clubs, representing hundreds of thousands of players…",
-   "published": "2026-11-25T04:29:29+00:00"
+   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth…",
+   "published": "2026-11-26T03:47:22+00:00"
   },
   {
-   "title": "+68%, +52%, +34%: the US mid-cap winners are in our AI-picked list this year",
-   "url": "https://www.investing.com/news/stock-market-news/68-52-34-the-us-midcap-winners-are-in-our-aipicked-list-this-year-5049682",
-   "source": "Investing.com",
-   "category": "market",
-   "summary": "",
-   "published": "2026-11-25T04:28:51+00:00"
-  },
-  {
-   "title": "Protesters clash with police over Venezuela’s poor minimum wage",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/protesters-clash-with-police-over-venezuelas-poor-minimum-wage?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "summary": "Labour organisers shared videos of police violently clashing with protesters near Venezuela’s presidential palace.",
-   "published": "2026-11-25T04:27:10+00:00"
-  },
-  {
-   "title": "GoodRx signals $844M-$850M 2026 revenue outlook while expecting lower Pharma Direct unit economics in 2027",
-   "url": "https://seekingalpha.com/news/4676426-goodrx-signals-844m-850m-2026-revenue-outlook-while-expecting-lower-pharma-direct-unit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "source": "Seeking Alpha",
-   "category": "market",
-   "summary": "",
-   "published": "2026-11-25T04:22:22+00:00"
-  },
-  {
-   "title": "Trump says a pardon for Jensen Huang was \"always an option\": NY Post",
-   "url": "https://seekingalpha.com/news/4676425-trump-says-a-pardon-for-jensen-huang-was-always-an-option-ny-post?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "source": "Seeking Alpha",
-   "category": "market",
-   "summary": "",
-   "published": "2026-11-25T04:17:11+00:00"
-  },
-  {
-   "title": "Australian politics live: Two Nationals kicked out of question time as Taylor slams ‘dirty deal’ with Greens; NSW responds to fire ant threat in Sydney",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-   "source": "The Guardian",
-   "category": "world",
-   "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI…",
-   "published": "2026-11-25T04:15:09+00:00"
-  },
-  {
-   "title": "Israeli strike kills four people in Gaza",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "summary": "An Israeli airstrike on an apartment building in the Shati refugee camp has killed at least four people.",
-   "published": "2026-11-25T04:13:58+00:00",
-   "impact": true
-  },
-  {
-   "title": "Workday outlines ~11% FY '28 subscription revenue growth while targeting at least 33% non-GAAP operating margin",
-   "url": "https://seekingalpha.com/news/4676424-workday-outlines-11-percent-fy-28-subscription-revenue-growth-while-targeting-at-least-33?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "source": "Seeking Alpha",
-   "category": "market",
-   "summary": "",
-   "published": "2026-11-25T04:12:18+00:00"
-  },
-  {
-   "title": "Galatasaray says Israel complained to UEFA over Palestine banners",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "summary": "Galatasaray’s chairman says Israel’s Netanyahu government has reported the club to UEFA over pro-Palestine fan banners.",
-   "published": "2026-11-25T04:12:11+00:00"
-  },
-  {
-   "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
-   "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+   "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+   "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
    "source": "CNBC Markets",
    "category": "market",
-   "summary": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
-   "published": "2026-11-25T04:06:01+00:00"
+   "summary": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists.",
+   "published": "2026-11-26T03:32:53+00:00"
   },
   {
-   "title": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
-   "url": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
+   "title": "VeriSign CEO D. James Bidzos sells $1.04 million in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/verisign-ceo-d-james-bidzos-sells-104-million-in-stock-93CH-5051969",
+   "source": "Investing.com",
+   "category": "market",
+   "summary": "",
+   "published": "2026-11-26T03:30:57+00:00"
+  },
+  {
+   "title": "Forge Nano executive buys $250,647 in company stock",
+   "url": "https://www.investing.com/news/insider-trading-news/forge-nano-executive-buys-250647-in-company-stock-93CH-5051968",
+   "source": "Investing.com",
+   "category": "market",
+   "summary": "",
+   "published": "2026-11-26T03:30:47+00:00"
+  },
+  {
+   "title": "Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
+   "url": "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
+   "source": "Investing.com",
+   "category": "market",
+   "summary": "",
+   "published": "2026-11-26T03:24:25+00:00"
+  },
+  {
+   "title": "Colombian president taunts arrested supermarket hostage-takers",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "summary": "Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
+   "published": "2026-11-26T03:23:24+00:00"
+  },
+  {
+   "title": "Gold eases as U.S. inflation data reinforces Fed rate-hike bets",
+   "url": "https://www.investing.com/news/commodities-news/gold-eases-as-us-inflation-data-reinforces-fed-ratehike-bets-5051964",
+   "source": "Investing.com",
+   "category": "market",
+   "summary": "",
+   "published": "2026-11-26T03:20:43+00:00"
+  },
+  {
+   "title": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
+   "url": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "summary": "Dario Amodei's remarks come amid predictions that AI may soon match or surpass human intelligence.",
+   "published": "2026-11-26T03:20:23+00:00"
+  },
+  {
+   "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+   "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
    "source": "CNBC Markets",
    "category": "market",
-   "summary": "Xiamen Airlines has agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of around $7.4 billion.",
-   "published": "2026-11-25T03:58:32+00:00"
+   "summary": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
+   "published": "2026-11-26T03:19:44+00:00"
   },
   {
-   "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
-   "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-   "source": "The Guardian",
-   "category": "world",
-   "summary": "Abelardo de la Espriella to take control of an operation involving scores of security personnel trying to free at least 20 hostages Colombia’s president has arrived at the scene of…",
-   "published": "2026-11-25T03:57:11+00:00"
+   "title": "Stocks rally in Asia, unrocked by US tariffs",
+   "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
+   "source": "Investing.com",
+   "category": "market",
+   "summary": "",
+   "published": "2026-11-26T03:18:18+00:00"
   },
   {
-   "title": "Australia’s inflation rate jumping to 4.9% a ‘very serious moment’ for economy, Chalmers declares",
-   "url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
-   "source": "The Guardian",
-   "category": "world",
-   "summary": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% as Australia’s cost-of-living crisis intensifies Follow our Australia politics…",
-   "published": "2026-11-25T03:55:50+00:00",
-   "impact": true
+   "title": "IKE GPS H1 FY27 slides: subscriptions surge 22%, margins hit 81%",
+   "url": "https://www.investing.com/news/company-news/ike-gps-h1-fy27-slides-subscriptions-surge-22-margins-hit-81-93CH-5051959",
+   "source": "Investing.com",
+   "category": "market",
+   "summary": "",
+   "published": "2026-11-26T03:18:17+00:00"
   },
   {
-   "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-   "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+   "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+   "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+   "source": "CNBC Markets",
+   "category": "market",
+   "summary": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
+   "published": "2026-11-26T03:13:43+00:00"
+  },
+  {
+   "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+   "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
+   "source": "CNBC Markets",
+   "category": "market",
+   "summary": "South Korean beauty stocks rose as K-beauty brands dominated Amazon's skincare rankings ahead of Black Friday.",
+   "published": "2026-11-26T03:09:47+00:00"
+  },
+  {
+   "title": "US announces new tariffs on host of countries including China",
+   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "category": "world",
-   "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
-   "published": "2026-11-25T03:54:43+00:00"
+   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "published": "2026-11-26T03:01:40+00:00",
+   "impact": true
   },
   {
-   "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
-   "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+   "title": "FIFA turns to influencers to promote U17 World Cup",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/fifa-turns-to-influencers-to-promote-u17-world-cup?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "summary": "FIFA has enlisted social media influencers to promote the Under-17 World Cup in Qatar.",
+   "published": "2026-11-26T03:00:51+00:00"
+  },
+  {
+   "title": "Spain’s election: the end of a leftwing icon? - podcast",
+   "url": "https://www.theguardian.com/news/audio/2026/nov/26/spains-election-the-end-of-a-leftwing-icon-podcast",
+   "source": "The Guardian",
+   "category": "world",
+   "summary": "Madrid correspondent Sam Jones and European community affairs correspondent Ashifa Kassam report on a pivotal election in Spain this weekend, which could see longtime PM Pedro Sánc…",
+   "published": "2026-11-26T03:00:43+00:00"
+  },
+  {
+   "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+   "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+   "source": "The Verge",
+   "category": "tech",
+   "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court f…",
+   "published": "2026-11-26T02:53:40+00:00"
+  },
+  {
+   "title": "Court blocks FCC move on ABC licenses in free speech ruling for Disney",
+   "url": "https://seekingalpha.com/news/4676731-court-blocks-fcc-move-on-abc-licenses-in-free-speech-ruling-for-disney?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "source": "Seeking Alpha",
+   "category": "market",
+   "summary": "",
+   "published": "2026-11-26T02:50:16+00:00"
+  },
+  {
+   "title": "NYC rent freeze survives court challenge; REIT stocks in focus",
+   "url": "https://seekingalpha.com/news/4676730-nyc-rent-freeze-upheld-real-estate-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "source": "Seeking Alpha",
+   "category": "market",
+   "summary": "",
+   "published": "2026-11-26T02:44:45+00:00"
+  },
+  {
+   "title": "美国宣布对中国、欧盟等加征新关税",
+   "url": "https://cn.nytimes.com/business/20261126/trump-tariffs-trade/?utm_source=RSS",
+   "source": "纽约时报中文",
+   "category": "world",
+   "summary": "特朗普政府将这些关税描绘为对不公平贸易行为的回应。新关税针对来自数十个国家的进口商品，包括中国、日本和欧盟成员国。这标志着全球贸易战再次升级。 The New York Times 特朗普总统将第二次依据《1974年贸易法》第301条大规模征收关税。",
+   "published": "2026-11-26T02:41:46+00:00",
+   "impact": true
+  },
+  {
+   "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+   "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
    "source": "CNBC Markets",
    "category": "market",
-   "summary": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
-   "published": "2026-11-25T03:52:03+00:00"
+   "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+   "published": "2026-11-26T02:35:39+00:00"
   },
   {
-   "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-   "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+   "title": "Coalition would privatise Melbourne’s sewage treatment while selling state-owned land and renewables to fund Victorian election promises",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+   "source": "The Guardian",
+   "category": "world",
+   "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog f…",
+   "published": "2026-11-26T02:35:09+00:00"
+  },
+  {
+   "title": "Australia projected to completely miss 2035 emissions target without new climate policies",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies",
+   "source": "The Guardian",
+   "category": "world",
+   "summary": "New official projections show country nearly on track for 2030 goal but Chris Bowen warns of ‘undeniable headwinds’ Sign up for climate and environment editor Adam Morton’s free Cl…",
+   "published": "2026-11-26T02:26:10+00:00"
+  },
+  {
+   "title": "Robotaxi 即将开启无人运营、机器人脱稿演讲，小鹏科技日迎来了自己的「奇点时刻」",
+   "url": "https://www.ifanr.com/1695212?utm_source=rss&utm_medium=rss&utm_campaign",
+   "source": "爱范儿",
+   "category": "tech",
+   "summary": "技术实力的外溢。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "published": "2026-11-26T02:25:24+00:00"
+  },
+  {
+   "title": "研究称立场亲北京的AI虚假账号试图影响台湾选情",
+   "url": "https://cn.nytimes.com/asia-pacific/20261126/taiwan-elections-misinformation/?utm_source=RSS",
+   "source": "纽约时报中文",
+   "category": "world",
+   "summary": "范德堡大学的研究人员开发了一种工具，可以检测出人工智能生成的、与中国政府立场一致的社交媒体帖子。新研究表明中国已开始利用人工智能改进信息战手段。 Lam Yik Fei for The New York Times 2024年台湾总统选举期间，台北的投票点。台湾将于11月28日举行地方选举。",
+   "published": "2026-11-26T02:23:01+00:00",
+   "impact": true
+  },
+  {
+   "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – as it happened",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "source": "The Guardian",
+   "category": "world",
+   "summary": "This live blog s now closed. Sign up for the Breaking News US email US trade representative Jamieson Greer claimed this morning that he did not expect the new proposed tariffs to r…",
+   "published": "2026-11-26T02:20:52+00:00",
+   "impact": true
+  },
+  {
+   "title": "美国官员向国会工作人员通报英伟达事件相关情报",
+   "url": "https://cn.nytimes.com/usa/20261126/intelligence-nvidia-affair-congressional-briefing/?utm_source=RSS",
+   "source": "纽约时报中文",
+   "category": "world",
+   "summary": "官员在简报会上说明了黄乐与中国国安部之间的联系。他们表示，仍未完全弄清黄乐在事件中扮演的角色，称没有证据表明她是受该机构指使才与黄仁勋发生婚外情的。 via Reuters 2024年，英伟达的黄仁勋与黄乐在台北的一次聚会上。",
+   "published": "2026-11-26T02:06:44+00:00"
+  },
+  {
+   "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+   "url": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "category": "world",
+   "summary": "Somalia relies heavily on foreign funding and military support for its very survival.",
+   "published": "2026-11-26T02:06:10+00:00"
+  },
+  {
+   "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+   "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "summary": "North Korean leader warns attempts to deny country's nuclear status will be seen as \"an open declaration of war\".",
+   "published": "2026-11-26T02:03:03+00:00",
+   "impact": true
+  },
+  {
+   "title": "Out-of-control bushfire with flames 10-metres high destroys at least six homes on Flinders Island",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
+   "source": "The Guardian",
+   "category": "world",
+   "summary": "Fire making a ‘significant run’ towards the south-west of Flinders Island on Thursday, Tasmania Fire Service says Get our breaking news email , free app or daily news podcast Resid…",
+   "published": "2026-11-26T01:59:30+00:00"
+  },
+  {
+   "title": "Norse Atlantic flights suspended after warning finances 'critical'",
+   "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+   "source": "CNBC Markets",
+   "category": "market",
+   "summary": "Norse Atlantic suspended flights as it warned its financial position was \"critical.\" The airline is seeking short-term financing and exploring a potential takeover.",
+   "published": "2026-11-26T01:52:20+00:00"
+  },
+  {
+   "title": "Photos: Storms and an El Nino-charged king tide batter California’s coast",
+   "url": "https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "summary": "Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.",
+   "published": "2026-11-26T01:40:13+00:00"
+  },
+  {
+   "title": "Ukraine attacks Russian military base, says five planes struck",
+   "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "summary": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
+   "published": "2026-11-26T01:39:46+00:00"
+  },
+  {
+   "title": "A社曝光了一份AI整顿职场魔幻实录，请甩给你那位沉迷AI提效的老板",
+   "url": "https://www.ifanr.com/1691748?utm_source=rss&utm_medium=rss&utm_campaign",
+   "source": "爱范儿",
+   "category": "tech",
+   "summary": "你用公司的 AI 省下的时间是公司的 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "published": "2026-11-26T01:28:30+00:00"
+  },
+  {
+   "title": "California warns of flooding as King Tides peak over Thanksgiving",
+   "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "category": "world",
+   "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+   "published": "2026-11-26T01:22:55+00:00"
+  },
+  {
+   "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+   "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "category": "market",
+   "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+   "published": "2026-11-26T01:15:00+00:00"
+  },
+  {
+   "title": "中国人工智能雄心面临一个严峻问题：去哪里找钱",
+   "url": "https://cn.nytimes.com/business/20261126/china-ai-investment-spending/?utm_source=RSS",
+   "source": "纽约时报中文",
+   "category": "world",
+   "summary": "中美企业都需要解决训练AI模型的成本飙升问题，但中国企业面临的是一个更为严峻的融资环境。科技巨头正苦苦应对负现金流问题，投资者对人工智能的热情也已降温。 Qilai Shen for The New York Times 中国深圳繁忙的电子市场。",
+   "published": "2026-11-26T01:14:44+00:00"
+  },
+  {
+   "title": "Tell HN: Lots of Ask HNs again",
+   "url": "https://news.ycombinator.com/item?id=50649864",
+   "source": "Hacker News",
+   "category": "tech",
+   "summary": "There have been questions about why the /ask page ( https://news.ycombinator.com/ask ) was running dry of Ask HNs - e.g.: Ask HN: Why is Ask HN only showing me 14 posts? - https://…",
+   "published": "2026-11-26T00:43:34+00:00"
+  },
+  {
+   "title": "Collection of preserved UI style guides",
+   "url": "https://aresluna.org/ui-style-guides/",
    "source": "Hacker News",
    "category": "tech",
    "summary": "",
-   "published": "2026-11-25T03:47:42+00:00"
+   "published": "2026-11-26T00:40:00+00:00"
+  },
+  {
+   "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+   "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "category": "market",
+   "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+   "published": "2026-11-26T00:33:00+00:00"
+  },
+  {
+   "title": "白紙運動四年之後，上海青年公共空間去哪兒了？",
+   "url": "https://www.bbc.com/zhongwen/articles/cwe851kg1kj1o/trad?at_medium=RSS&at_campaign=rss",
+   "source": "BBC 中文",
+   "category": "world",
+   "summary": "白紙運動四年後，BBC中文對話多位上海酒吧、咖啡店老闆和昔日常客、白紙運動親歷者，在他們眼裡，青年空間是如何在四年裡逐漸消失的。",
+   "published": "2026-11-26T00:29:38+00:00"
+  },
+  {
+   "title": "The US pastor who wants to see women's right to vote overturned",
+   "url": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "category": "world",
+   "summary": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
+   "published": "2026-11-26T00:24:25+00:00"
+  },
+  {
+   "title": "Spanish elections: What you need to know and what's at stake",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "category": "world",
+   "summary": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
+   "published": "2026-11-26T00:23:49+00:00"
+  },
+  {
+   "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+   "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "category": "world",
+   "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+   "published": "2026-11-26T00:23:27+00:00"
+  },
+  {
+   "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+   "url": "https://sspai.com/post/119560",
+   "source": "少数派",
+   "category": "tech",
+   "summary": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。 查看全文",
+   "published": "2026-11-26T00:08:07+00:00"
+  },
+  {
+   "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+   "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+   "source": "The Verge",
+   "category": "tech",
+   "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home up…",
+   "published": "2026-11-26T00:04:34+00:00"
+  },
+  {
+   "title": "早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」",
+   "url": "https://www.ifanr.com/1695128?utm_source=rss&utm_medium=rss&utm_campaign",
+   "source": "爱范儿",
+   "category": "tech",
+   "summary": "· Counterpoint：2027 年全球智能手机出货量预计再降 6%，2028 年反弹 6% · 理想汽车 2026 年 Q3 营收 288.34 亿元，经营与自由现金流转正 · 26.99 万元起，宝马首款国产新世代车型 iX3 上市并开始交付 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "published": "2026-11-26T00:02:57+00:00"
+  },
+  {
+   "title": "We reviewed these 10 gadgets, and they're now on sale for Black Friday",
+   "url": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
+   "source": "Engadget",
+   "category": "tech",
+   "summary": "Multiple gadgets from Engadget's Best of 2026 list are already on sale, including Samsung's flagship foldable and Apple's ultra-popular entry-level laptop.",
+   "published": "2026-11-25T23:36:46+00:00"
+  },
+  {
+   "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+   "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "category": "market",
+   "summary": "“Retirement is a financial status, not an age.”",
+   "published": "2026-11-25T23:30:00+00:00"
+  },
+  {
+   "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+   "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "category": "market",
+   "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+   "published": "2026-11-25T23:30:00+00:00"
+  },
+  {
+   "title": "Seraphim Space signals further C-share conversions as it deploys £43.6m and backs ICEYE’s €2.1b Avio bid",
+   "url": "https://seekingalpha.com/news/4676729-seraphim-space-signals-further-c-share-conversions-as-it-deploys-43_6m-and-backs-iceye-s-2_1b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "source": "Seeking Alpha",
+   "category": "market",
+   "summary": "",
+   "published": "2026-11-25T23:23:07+00:00"
+  },
+  {
+   "title": "Pentagon considered invoking wartime law to reinstate Nvidia's Huang: WaPo",
+   "url": "https://seekingalpha.com/news/4676728-pentagon-considered-invoking-wartime-law-reinstate-nvidia-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "source": "Seeking Alpha",
+   "category": "market",
+   "summary": "",
+   "published": "2026-11-25T23:15:39+00:00"
+  },
+  {
+   "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+   "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "category": "market",
+   "summary": "“My wife stopped working outside the home in 1970.”",
+   "published": "2026-11-25T23:00:00+00:00"
+  },
+  {
+   "title": "Jev is probably Qwen3.5-35B-A3B",
+   "url": "https://modaic.dev/blog/latency-doesnt-lie",
+   "source": "Hacker News",
+   "category": "tech",
+   "summary": "",
+   "published": "2026-11-25T22:57:04+00:00"
+  },
+  {
+   "title": "FirstEnergy announces up to $1B at-the-market stock offering",
+   "url": "https://seekingalpha.com/news/4676721-firstenergy-announces-up-to-1b-at-the-market-stock-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "source": "Seeking Alpha",
+   "category": "market",
+   "summary": "",
+   "published": "2026-11-25T22:47:06+00:00"
+  },
+  {
+   "title": "Northrop Grumman wins $1.13B contract modification for Navy E-130J program",
+   "url": "https://seekingalpha.com/news/4676727-northrop-grumman-wins-1_13b-contract-modification-for-navy-eminus-130j-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "source": "Seeking Alpha",
+   "category": "market",
+   "summary": "",
+   "published": "2026-11-25T22:45:28+00:00"
+  },
+  {
+   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+   "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "category": "market",
+   "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+   "published": "2026-11-25T22:45:00+00:00"
+  },
+  {
+   "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+   "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+   "published": "2026-11-25T22:44:32+00:00"
+  },
+  {
+   "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+   "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+   "source": "Ars Technica",
+   "category": "tech",
+   "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+   "published": "2026-11-25T22:36:45+00:00"
+  },
+  {
+   "title": "Bare Metal Qwen",
+   "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+   "source": "Hacker News",
+   "category": "tech",
+   "summary": "",
+   "published": "2026-11-25T22:15:34+00:00"
+  },
+  {
+   "title": "The Verge’s 2026 holiday gift guide for travelers",
+   "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+   "source": "The Verge",
+   "category": "tech",
+   "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut lik…",
+   "published": "2026-11-25T22:14:12+00:00"
+  },
+  {
+   "title": "Deploying a payphone on a tiny Pacific Island",
+   "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+   "source": "Hacker News",
+   "category": "tech",
+   "summary": "",
+   "published": "2026-11-25T22:12:25+00:00"
+  },
+  {
+   "title": "Can you play GTA 6 from an external hard drive on PS5 or Xbox Series X/S?",
+   "url": "https://www.engadget.com/2328792/can-you-play-gta-6-from-external-hard-drive/",
+   "source": "Engadget",
+   "category": "tech",
+   "summary": "With a hefty install size, GTA 6 will take up a significant chunk of your PS5 or Xbox Series X/S storage space.",
+   "published": "2026-11-25T22:07:07+00:00"
+  },
+  {
+   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+   "source": "The Verge",
+   "category": "tech",
+   "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on informatio…",
+   "published": "2026-11-25T21:51:26+00:00"
+  },
+  {
+   "title": "Much shorter version of GRH Lean verification from Anthropic",
+   "url": "https://github.com/lsernau/grh-lean",
+   "source": "Hacker News",
+   "category": "tech",
+   "summary": "",
+   "published": "2026-11-25T21:48:10+00:00"
+  },
+  {
+   "title": "7 gadgets that'll instantly upgrade your Thanksgiving feast",
+   "url": "https://www.engadget.com/2328767/gadgets-instantly-upgrade-thanksgiving-feast/",
+   "source": "Engadget",
+   "category": "tech",
+   "summary": "These tools will make turkey day just a little easier.",
+   "published": "2026-11-25T21:41:43+00:00"
+  },
+  {
+   "title": "Google search alternative Kagi launches Gmail rival",
+   "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+   "source": "Ars Technica",
+   "category": "tech",
+   "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+   "published": "2026-11-25T20:57:09+00:00"
+  },
+  {
+   "title": "FCC approves SpaceX plan to put AI data centers in space",
+   "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory a…",
+   "published": "2026-11-25T20:56:44+00:00"
+  },
+  {
+   "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+   "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+   "source": "The Decoder",
+   "category": "ai",
+   "summary": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a rep…",
+   "published": "2026-11-25T20:51:02+00:00"
+  },
+  {
+   "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+   "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+   "source": "The Verge",
+   "category": "tech",
+   "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversatio…",
+   "published": "2026-11-25T20:31:48+00:00"
+  },
+  {
+   "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+   "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
+   "source": "The Decoder",
+   "category": "ai",
+   "summary": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says \"turning over governan…",
+   "published": "2026-11-25T20:15:50+00:00"
+  },
+  {
+   "title": "State AGs are trying to stop Character.AI from auctioning off users' chat histories",
+   "url": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+   "source": "Engadget",
+   "category": "tech",
+   "summary": "The proposed sale would include explicit conversations with children, officials say.",
+   "published": "2026-11-25T20:04:07+00:00"
+  },
+  {
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+   "published": "2026-11-25T20:03:27+00:00"
+  },
+  {
+   "title": "NASA's DART mission left a stadium-sized crater in an asteroid, the ESA finds",
+   "url": "https://www.engadget.com/2328617/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds/",
+   "source": "Engadget",
+   "category": "tech",
+   "summary": "The ESA's Hera mission has begun capturing images of the aftermath of DART's impact.",
+   "published": "2026-11-25T20:01:08+00:00"
+  },
+  {
+   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+   "published": "2026-11-25T19:54:57+00:00"
+  },
+  {
+   "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+   "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+   "published": "2026-11-25T19:54:32+00:00"
+  },
+  {
+   "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+   "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+   "source": "The Verge",
+   "category": "tech",
+   "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation o…",
+   "published": "2026-11-25T19:47:46+00:00"
+  },
+  {
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own rese…",
+   "published": "2026-11-25T19:44:24+00:00"
+  },
+  {
+   "title": "Where scientists draw the line on AI agents",
+   "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+   "source": "Hugging Face",
+   "category": "ai",
+   "summary": "",
+   "published": "2026-11-25T18:52:55+00:00"
+  },
+  {
+   "title": "Backblaze explains why it's sharing customer information with advertisers",
+   "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+   "source": "Ars Technica",
+   "category": "tech",
+   "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+   "published": "2026-11-25T18:38:29+00:00"
+  },
+  {
+   "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+   "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+   "source": "Ars Technica",
+   "category": "tech",
+   "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+   "published": "2026-11-25T18:22:38+00:00"
+  },
+  {
+   "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+   "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+   "source": "The Decoder",
+   "category": "ai",
+   "summary": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data. The article Ope…",
+   "published": "2026-11-25T18:22:02+00:00"
+  },
+  {
+   "title": "This $1,900 Alienware Aurora is one of the best early Black Friday PC deals",
+   "url": "https://www.engadget.com/2328361/this-dollar1900-alienware-aurora-is-one-of-the-best-early-black-friday-pc-deals/",
+   "source": "Engadget",
+   "category": "tech",
+   "summary": "If you purchased them separately, just the price of its CPU, GPU and RAM goes for around $1,750.",
+   "published": "2026-11-25T17:54:07+00:00"
+  },
+  {
+   "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+   "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+   "source": "Ars Technica",
+   "category": "tech",
+   "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+   "published": "2026-11-25T17:33:30+00:00"
+  },
+  {
+   "title": "Etsy clarifies AI terms after seller backlash",
+   "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+   "source": "Ars Technica",
+   "category": "tech",
+   "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+   "published": "2026-11-25T17:12:57+00:00"
+  },
+  {
+   "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+   "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
+   "source": "The Decoder",
+   "category": "ai",
+   "summary": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to co…",
+   "published": "2026-11-25T16:44:37+00:00"
+  },
+  {
+   "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+   "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+   "source": "NPR World",
+   "category": "world",
+   "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
+   "published": "2026-11-25T14:14:34+00:00"
+  },
+  {
+   "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
+   "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+   "source": "The Decoder",
+   "category": "ai",
+   "summary": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvemen…",
+   "published": "2026-11-25T13:23:36+00:00"
+  },
+  {
+   "title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
+   "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+   "source": "The Decoder",
+   "category": "ai",
+   "summary": "Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heavy review workloads…",
+   "published": "2026-11-25T13:14:27+00:00"
+  },
+  {
+   "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+   "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+   "source": "NPR World",
+   "category": "world",
+   "summary": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has volunta…",
+   "published": "2026-11-25T12:18:09+00:00"
+  },
+  {
+   "title": "BBC事實查核：與中國有關帳號用AI生成影攻擊台灣選舉候選人",
+   "url": "https://www.bbc.com/zhongwen/articles/c6rmgvkp322xo/trad?at_medium=RSS&at_campaign=rss",
+   "source": "BBC 中文",
+   "category": "world",
+   "summary": "一波與中國有關的帳號用AI生成影片，攻擊台灣執政黨關鍵人物，包括總統賴清德和台北市長候選人沈伯洋。",
+   "published": "2026-11-25T11:53:06+00:00"
+  },
+  {
+   "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+   "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+   "source": "NPR World",
+   "category": "world",
+   "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was…",
+   "published": "2026-11-25T11:50:05+00:00"
+  },
+  {
+   "title": "上海市委書記陳吉寧被查 中共高層明日之星意外隕落",
+   "url": "https://www.bbc.com/zhongwen/articles/c83vgd1l5erlo/trad?at_medium=RSS&at_campaign=rss",
+   "source": "BBC 中文",
+   "category": "world",
+   "summary": "中國宣佈上海市委書記陳吉寧因「涉嫌嚴重違紀違法」，正接受當局的調查。這名此前仕途光明的官員原本有望進入政治局常委會，甚至可能成為總理接班人。",
+   "published": "2026-11-25T11:14:10+00:00"
+  },
+  {
+   "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+   "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+   "source": "NPR World",
+   "category": "world",
+   "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
+   "published": "2026-11-25T11:00:00+00:00"
+  },
+  {
+   "title": "An Indic Voice Agent with CUGA",
+   "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+   "source": "Hugging Face",
+   "category": "ai",
+   "summary": "",
+   "published": "2026-11-25T10:22:09+00:00"
+  },
+  {
+   "title": "AI is straining America’s open records systems",
+   "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and…",
+   "published": "2026-11-25T10:00:00+00:00"
+  },
+  {
+   "title": "翻开 2027， 值得入手的新年日历推荐",
+   "url": "https://sspai.com/post/119264",
+   "source": "少数派",
+   "category": "tech",
+   "summary": "按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ... 查看全文",
+   "published": "2026-11-25T09:48:34+00:00"
+  },
+  {
+   "title": "神舟二十四號成功發射 首位巴基斯坦航天員登中國「天宮」意味什麼？",
+   "url": "https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/trad?at_medium=RSS&at_campaign=rss",
+   "source": "BBC 中文",
+   "category": "world",
+   "summary": "這次任務對航天員阿里而言，這是巴基斯坦的榮耀時刻；對中國而言，則是其與美國爭奪太空主導地位競賽中的又一步進展。",
+   "published": "2026-11-25T09:44:18+00:00"
+  },
+  {
+   "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+   "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
+   "source": "NPR World",
+   "category": "world",
+   "summary": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or dept…",
+   "published": "2026-11-25T09:44:13+00:00"
+  },
+  {
+   "title": "拓竹 P3C 发布：国补后 6374 元起，下一代 3D 打印机开始卷性价比",
+   "url": "https://www.ifanr.com/1691661?utm_source=rss&utm_medium=rss&utm_campaign",
+   "source": "爱范儿",
+   "category": "tech",
+   "summary": "打印机开始卷手艺 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "published": "2026-11-25T09:00:30+00:00"
+  },
+  {
+   "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
+   "url": "https://sspai.com/post/119310",
+   "source": "少数派",
+   "category": "tech",
+   "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。 查看全文",
+   "published": "2026-11-25T06:59:16+00:00"
+  },
+  {
+   "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
+   "url": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
+   "source": "NPR World",
+   "category": "world",
+   "summary": "Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage…",
+   "published": "2026-11-25T06:43:23+00:00"
+  },
+  {
+   "title": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2",
+   "url": "https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign",
+   "source": "爱范儿",
+   "category": "tech",
+   "summary": "AI 视频「烧钱」终结者 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "published": "2026-11-25T05:21:04+00:00"
   },
   {
    "title": "黄仁勋重返英伟达，北京喜忧参半",
@@ -235,60 +918,12 @@
    "published": "2026-11-25T03:47:39+00:00"
   },
   {
-   "title": "US attorney general dodges questions about Nvidia investigation",
-   "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-   "published": "2026-11-25T03:44:07+00:00"
-  },
-  {
    "title": "“我犯了一些可怕的错误”：黄仁勋向英伟达员工致歉",
    "url": "https://cn.nytimes.com/technology/20261125/jensen-huang-apology-nvidia-ceo/?utm_source=RSS",
    "source": "纽约时报中文",
    "category": "world",
    "summary": "黄仁勋在英伟达全员会议上承认自己违反了公司行为准则，并表示自己每天接受90分钟心理治疗。他在会议上赞扬特朗普，但否认自己复职是因为总统向董事会施压。 Agence France-Presse — Getty Images 周一，英伟达社交媒体账号发布的一张照片显示，黄仁勋返回了位于加利福尼亚州圣克拉拉的公司总部。",
    "published": "2026-11-25T03:37:28+00:00"
-  },
-  {
-   "title": "Asia’s stock markets dive as doubts swirl over AI boom",
-   "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "summary": "Markets fall sharply in Japan, South Korea and Taiwan in latest tech-led sell-off.",
-   "published": "2026-11-25T03:31:59+00:00"
-  },
-  {
-   "title": "A faster algorithm for extracting hexadecimal digits of π",
-   "url": "https://www.stylewarning.com/posts/faster-digit-extraction/",
-   "source": "Hacker News",
-   "category": "tech",
-   "summary": "",
-   "published": "2026-11-25T03:28:42+00:00"
-  },
-  {
-   "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
-   "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "summary": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
-   "published": "2026-11-25T03:28:37+00:00"
-  },
-  {
-   "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-   "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-   "source": "Hacker News",
-   "category": "tech",
-   "summary": "",
-   "published": "2026-11-25T03:28:06+00:00"
-  },
-  {
-   "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-   "url": "https://buttons.joshwcomeau.com/",
-   "source": "Hacker News",
-   "category": "tech",
-   "summary": "",
-   "published": "2026-11-25T03:23:07+00:00"
   },
   {
    "title": "宏福苑大火一週年：「這條刺永遠都在」，遺屬在傷痛中尋找答案",
@@ -299,148 +934,12 @@
    "published": "2026-11-25T03:21:30+00:00"
   },
   {
-   "title": "Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)",
-   "url": "https://vcarl.com/sashay/",
-   "source": "Hacker News",
-   "category": "tech",
-   "summary": "",
-   "published": "2026-11-25T03:10:18+00:00"
-  },
-  {
-   "title": "上海市委书记陈吉宁被调查",
-   "url": "https://cn.nytimes.com/china/20261125/shanghai-party-leader-investigation-china-xi/?utm_source=RSS",
-   "source": "纽约时报中文",
-   "category": "world",
-   "summary": "陈吉宁曾任清华大学校长、环保部长和北京市长，其背景与习近平的科技优先事项十分契合。很多分析人士曾认为，他有望在习近平的下一届政府中获得晋升。 Pool photo by Carl Court 上海市委书记陈吉宁。他的科学教育背景被认为与中国最高领导人习近平的优先事项相契合。",
-   "published": "2026-11-25T03:09:27+00:00"
-  },
-  {
    "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
    "url": "https://sspai.com/post/118791",
    "source": "少数派",
    "category": "tech",
    "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
    "published": "2026-11-25T03:07:41+00:00"
-  },
-  {
-   "title": "从兵工厂小镇到英伟达核心圈：黄乐的人生轨迹与间谍疑云",
-   "url": "https://cn.nytimes.com/china/20261125/nvidia-alice-huang-china/?utm_source=RSS",
-   "source": "纽约时报中文",
-   "category": "world",
-   "summary": "通过走访黄乐的故乡、查阅公司文件和公开资料，并采访十余名熟悉她的人士，时报还原了黄乐的成长背景与人生轨迹。她的人生从童年起便与中国军工复合体紧密交织。 Illustration by Joan Wong; Photograph by Ann Wang/Reuters",
-   "published": "2026-11-25T03:07:37+00:00"
-  },
-  {
-   "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
-   "source": "The Guardian",
-   "category": "world",
-   "summary": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 Get our breaking news email , free app or daily news podcast Former police officer Beau Lam…",
-   "published": "2026-11-25T03:05:42+00:00"
-  },
-  {
-   "title": "The Russian army’s secret death toll – podcast",
-   "url": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
-   "source": "The Guardian",
-   "category": "world",
-   "summary": "Vladimir Putin has always kept the number of soldiers killed in Ukraine a secret, but at one point 720 were dying in 24 hours. Pjotr Sauer reports. Send your comments and questions…",
-   "published": "2026-11-25T03:00:03+00:00"
-  },
-  {
-   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-   "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "summary": "The verdict follows a months-long trial in New York.",
-   "published": "2026-11-25T02:59:27+00:00"
-  },
-  {
-   "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-   "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-   "source": "CNBC Markets",
-   "category": "market",
-   "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
-   "published": "2026-11-25T02:50:08+00:00"
-  },
-  {
-   "title": "Pakistani astronaut launches into space aboard Chinese rocket",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "summary": "Pakistani astronaut Muhammad Zeeshan Ali has launched into space aboard a Chinese rocket.",
-   "published": "2026-11-25T02:44:45+00:00"
-  },
-  {
-   "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-   "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
-   "source": "CNBC Markets",
-   "category": "market",
-   "summary": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
-   "published": "2026-11-25T02:43:33+00:00"
-  },
-  {
-   "title": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
-   "url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "summary": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia's safe departure to Spain as a 'free man'.",
-   "published": "2026-11-25T02:40:59+00:00"
-  },
-  {
-   "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-   "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
-   "source": "CNBC Markets",
-   "category": "market",
-   "summary": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
-   "published": "2026-11-25T02:36:43+00:00"
-  },
-  {
-   "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-   "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "category": "market",
-   "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
-   "published": "2026-11-25T02:00:00+00:00"
-  },
-  {
-   "title": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
-   "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
-   "published": "2026-11-25T01:51:43+00:00"
-  },
-  {
-   "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
-   "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
-   "source": "The Verge",
-   "category": "tech",
-   "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, sai…",
-   "published": "2026-11-25T01:45:35+00:00"
-  },
-  {
-   "title": "Thomas Markle indicted in US for possessing child sex abuse images",
-   "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
-   "published": "2026-11-25T01:40:42+00:00"
-  },
-  {
-   "title": "Dell’s stock rises as the AI boom helps sales more than double",
-   "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "category": "market",
-   "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
-   "published": "2026-11-25T01:11:00+00:00"
-  },
-  {
-   "title": "Change this Roku TV setting to watch movies how they were filmed",
-   "url": "https://www.engadget.com/2321254/change-roku-tv-setting-watch-movies-how-filmed/",
-   "source": "Engadget",
-   "category": "tech",
-   "summary": "Your TV's refresh rate might be set to 60fps by default, but you can change that.",
-   "published": "2026-11-25T01:00:00+00:00"
   },
   {
    "title": "我每月花250英鎊請人幫我處理生活雜務，而這很值得",
@@ -451,14 +950,6 @@
    "published": "2026-11-25T00:39:44+00:00"
   },
   {
-   "title": "This helpful Apple Watch feature works seamlessly with Apple CarPlay",
-   "url": "https://www.engadget.com/2321253/haptic-navigation-helpful-apple-watch-feature-works-seamlessly-carplay/",
-   "source": "Engadget",
-   "category": "tech",
-   "summary": "Long drives call for every trick you can get. See how your Apple Watch and CarPlay team up to keep you on course and a little more alert behind the wheel.",
-   "published": "2026-11-25T00:30:00+00:00"
-  },
-  {
    "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
    "url": "https://sspai.com/post/119527",
    "source": "少数派",
@@ -467,301 +958,12 @@
    "published": "2026-11-25T00:22:35+00:00"
   },
   {
-   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-   "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposin…",
-   "published": "2026-11-25T00:12:02+00:00"
-  },
-  {
-   "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
-   "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accu…",
-   "published": "2026-11-25T00:10:27+00:00"
-  },
-  {
-   "title": "早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台",
-   "url": "https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign",
-   "source": "爱范儿",
-   "category": "tech",
-   "summary": "· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S · 神舟二十四号任务将开展一年期在轨驻留试验 · PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "published": "2026-11-25T00:08:21+00:00"
-  },
-  {
-   "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-   "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "category": "market",
-   "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-   "published": "2026-11-25T00:05:00+00:00"
-  },
-  {
-   "title": "You don't have to look at your Apple Watch to get the time",
-   "url": "https://www.engadget.com/2321251/apple-watch-tell-time-without-looking-haptic-feedback/",
-   "source": "Engadget",
-   "category": "tech",
-   "summary": "Your Apple Watch has a way to share the time that even supports Morse Code. See which of its three modes makes sense for your daily routine.",
+   "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+   "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+   "source": "Hugging Face",
+   "category": "ai",
+   "summary": "",
    "published": "2026-11-25T00:00:00+00:00"
-  },
-  {
-   "title": "The Verge’s 2026 gift guide for dads",
-   "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-   "source": "The Verge",
-   "category": "tech",
-   "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for…",
-   "published": "2026-11-24T23:59:29+00:00"
-  },
-  {
-   "title": "香港宏福苑大火一週年：災後餘生，家在何方？",
-   "url": "https://www.bbc.com/zhongwen/articles/cqvg261dkxp7o/trad?at_medium=RSS&at_campaign=rss",
-   "source": "BBC 中文",
-   "category": "world",
-   "summary": "香港宏福苑大火一周年，BBC中文紀錄多位難屬如何走過災後一年。這場香港數十年以最致命災難奪去168條性命，1984戶失去家園，包括喪失丈夫與爸爸的Christy一家與父母雙亡的蘇先生。一年來，災民一邊重建新生活，一邊等待調查報告、申請法律援助，一邊向年幼孩子解釋死亡。調查結論公布後，官員辭職，數十人被捕或起訴。但對許多仍在傷痛中家庭來說，一切遠遠未及完結。",
-   "published": "2026-11-24T23:49:34+00:00"
-  },
-  {
-   "title": "TikTok was down",
-   "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
-   "source": "The Verge",
-   "category": "tech",
-   "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages ove…",
-   "published": "2026-11-24T23:47:36+00:00"
-  },
-  {
-   "title": "The battery in your Fitbit Edge is replaceable, but it's not as easy as you'd think",
-   "url": "https://www.engadget.com/2321249/fitbit-edge-replaceable-battery-not-easy/",
-   "source": "Engadget",
-   "category": "tech",
-   "summary": "Google partnered with iFixit for a step-by-step guide to replacing the Fitbit Edge's battery.",
-   "published": "2026-11-24T23:30:00+00:00"
-  },
-  {
-   "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
-   "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
-   "source": "The Verge",
-   "category": "tech",
-   "summary": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Ve…",
-   "published": "2026-11-24T23:25:46+00:00"
-  },
-  {
-   "title": "Australia to pass safety bill that could result in massive fines for tech platforms",
-   "url": "https://www.engadget.com/2327499/australia-to-pass-safety-bill-that-could-result-in-massive-fines-for-tech-platforms/",
-   "source": "Engadget",
-   "category": "tech",
-   "summary": "Australian lawmakers are close to passing the Digital Duty of Care Bill, an amendment to the country's Online Safety Act of 2021.",
-   "published": "2026-11-24T23:21:40+00:00"
-  },
-  {
-   "title": "The Verge’s 2026 holiday gift guide for moms",
-   "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
-   "source": "The Verge",
-   "category": "tech",
-   "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a…",
-   "published": "2026-11-24T23:16:41+00:00"
-  },
-  {
-   "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
-   "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "category": "market",
-   "summary": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.",
-   "published": "2026-11-24T23:11:00+00:00"
-  },
-  {
-   "title": "The clock is running out for America’s most contentious spying law",
-   "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
-   "source": "The Verge",
-   "category": "tech",
-   "summary": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it…",
-   "published": "2026-11-24T23:03:38+00:00"
-  },
-  {
-   "title": "Improve your Starlink Wi-Fi speed with this app setting",
-   "url": "https://www.engadget.com/2321248/starlink-wifi-speed-split-network-app-setting/",
-   "source": "Engadget",
-   "category": "tech",
-   "summary": "See how a single setting in the Starlink app can improve your home internet speed, and figure out whether switching it on makes sense for your setup.",
-   "published": "2026-11-24T23:00:00+00:00"
-  },
-  {
-   "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
-   "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
-   "source": "Ars Technica",
-   "category": "tech",
-   "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
-   "published": "2026-11-24T22:50:11+00:00"
-  },
-  {
-   "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
-   "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
-   "source": "Ars Technica",
-   "category": "tech",
-   "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
-   "published": "2026-11-24T22:36:28+00:00",
-   "impact": true
-  },
-  {
-   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-   "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
-   "published": "2026-11-24T22:27:52+00:00"
-  },
-  {
-   "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
-   "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "category": "market",
-   "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
-   "published": "2026-11-24T21:53:00+00:00"
-  },
-  {
-   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-   "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
-   "published": "2026-11-24T21:48:27+00:00"
-  },
-  {
-   "title": "Anthropic’s stock just broke below its IPO price for the first time",
-   "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "category": "market",
-   "summary": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
-   "published": "2026-11-24T21:46:00+00:00"
-  },
-  {
-   "title": "Even the best AI agents struggle with everyday life",
-   "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducin…",
-   "published": "2026-11-24T21:33:29+00:00"
-  },
-  {
-   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-   "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-   "published": "2026-11-24T21:32:38+00:00"
-  },
-  {
-   "title": "美国陪审团裁定华为窃取商业秘密及银行欺诈罪名成立 但未认定刑事敲诈勒索共谋",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1587880.htm",
-   "source": "cnBeta",
-   "category": "tech",
-   "summary": "美国一个联邦陪审团于周二裁定，中国科技巨头华为技术有限公司在窃取商业秘密共谋及银行欺诈方面罪名成立。该案涉及华为成长为全球最大无线电信设备供应商之一过程中的多项商业行为。",
-   "published": "2026-11-24T20:59:04+00:00"
-  },
-  {
-   "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
-   "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
-   "source": "The Decoder",
-   "category": "ai",
-   "summary": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows, and a free account is enough. You build one in chat without writing code, and it can add menu ba…",
-   "published": "2026-11-24T20:42:29+00:00"
-  },
-  {
-   "title": "What's going on with the Riemann hypothesis?",
-   "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-   "source": "Ars Technica",
-   "category": "tech",
-   "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
-   "published": "2026-11-24T20:34:53+00:00"
-  },
-  {
-   "title": "黄仁勋向英伟达员工道歉 否认特朗普促成其复职",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1587878.htm",
-   "source": "cnBeta",
-   "category": "tech",
-   "summary": "英伟达首席执行官黄仁勋在重返公司后的首次全员大会上向员工道歉，并试图澄清外界关于白宫和科技界领袖帮助他重新获得职位的说法。 他在会上称，美国总统特朗普直接参与其复职的说法“完全不属实”，并表示“不要以为政治在公司中发挥了任何作用。我们是最不涉政治的公司”。",
-   "published": "2026-11-24T20:30:53+00:00"
-  },
-  {
-   "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
-   "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
-   "source": "Ars Technica",
-   "category": "tech",
-   "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
-   "published": "2026-11-24T20:00:18+00:00"
-  },
-  {
-   "title": "NVIDIA机器人工程师表示自己“可能行动得太快了” 并愿意考虑重返公司",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1587876.htm",
-   "source": "cnBeta",
-   "category": "tech",
-   "summary": "英伟达机器人工程师达雷尔·戴（Darrell Dai）在首席执行官黄仁勋离职后辞职，如今黄仁勋重返CEO职位，戴表示自己“可能行动得太快了”，并愿意考虑重返英伟达，前提是公司愿意重新接纳他。",
-   "published": "2026-11-24T19:28:34+00:00"
-  },
-  {
-   "title": "Google研究人员展示量子芯片在逻辑游戏中胜过经典计算机的案例",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1587874.htm",
-   "source": "cnBeta",
-   "category": "tech",
-   "summary": "Google研究人员日前宣布，该公司的实验性量子计算机在一种名为“魔方游戏”的逻辑谜题中，超越了经典计算机所能达到的最佳策略。这项研究已发表于《科学》杂志，为物理学家提供了一次在真实硬件上验证量子“情境性”现象的机会。研究人员认为，这一现象可能是量子计算机未来能力的关键来源。",
-   "published": "2026-11-24T19:27:19+00:00"
-  },
-  {
-   "title": "开发者利用触觉马达让MacBook笔记本“开口说话”",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1587872.htm",
-   "source": "cnBeta",
-   "category": "tech",
-   "summary": "苹果MacBook的静音键本应让设备安静下来，但一位开发者却找到了一种让静音的MacBook重新“发声”的方法。这个声音并非来自传统扬声器，而是直接由触控板发出：通过高速驱动触控板内用于模拟按压反馈的触觉马达，把细微的震动转化为带有机械感的语音。",
-   "published": "2026-11-24T19:26:35+00:00"
-  },
-  {
-   "title": "Mozilla Firefox 161发布 可按网站自动启用VPN并新增一键清除浏览数据功能",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1587870.htm",
-   "source": "cnBeta",
-   "category": "tech",
-   "summary": "Mozilla 于周二发布 Firefox 161，为浏览器带来更精细的 VPN 管理能力。用户现在可以在 Firefox 的 VPN 面板中使用“管理 VPN 规则”选项，为特定网站设置 VPN 自动开启或自动关闭，从而无需在每次访问相关页面时手动切换 VPN 状态。",
-   "published": "2026-11-24T19:23:44+00:00"
-  },
-  {
-   "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
-   "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
-   "source": "The Decoder",
-   "category": "ai",
-   "summary": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-up questions for use…",
-   "published": "2026-11-24T19:23:41+00:00"
-  },
-  {
-   "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-   "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-   "source": "Ars Technica",
-   "category": "tech",
-   "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
-   "published": "2026-11-24T18:47:57+00:00"
-  },
-  {
-   "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-   "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
-   "source": "Ars Technica",
-   "category": "tech",
-   "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
-   "published": "2026-11-24T18:30:36+00:00"
-  },
-  {
-   "title": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
-   "url": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
-   "source": "The Decoder",
-   "category": "ai",
-   "summary": "Novartis CEO Vas Narasimhan, who also sits on Anthropic's board, is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis. AI will speed up…",
-   "published": "2026-11-24T18:01:55+00:00"
-  },
-  {
-   "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
-   "url": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
-   "source": "The Decoder",
-   "category": "ai",
-   "summary": "OpenAI researcher Noam Brown is urging promising students to drop out, saying it's \"not a great time to sit on the sidelines.\" The o1 co-creator says AI is still in a \"centaur peri…",
-   "published": "2026-11-24T17:58:44+00:00"
   },
   {
    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
@@ -772,14 +974,6 @@
    "published": "2026-11-24T16:34:13+00:00"
   },
   {
-   "title": "黃仁勳重掌Nvidia：習近平從特朗普身上看到了什麼？",
-   "url": "https://www.bbc.com/zhongwen/articles/cjr4gwxzgyydo/trad?at_medium=RSS&at_campaign=rss",
-   "source": "BBC 中文",
-   "category": "world",
-   "summary": "黃仁勳戲劇性重返英偉達，不僅讓北京看到了影響華盛頓的可能，也讓習近平進一步了解特朗普的軟肋，以及中國在中美科技與貿易博弈中可以利用的籌碼。",
-   "published": "2026-11-24T16:15:54+00:00"
-  },
-  {
    "title": "How Gemini is changing the game for Golden State's organization and fans.",
    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
    "source": "Google AI",
@@ -788,60 +982,12 @@
    "published": "2026-11-24T16:00:00+00:00"
   },
   {
-   "title": "Raising the stakes for enterprise networks with AI modernization",
-   "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-   "source": "MIT Tech Review",
+   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+   "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+   "source": "DeepMind",
    "category": "ai",
-   "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. No…",
-   "published": "2026-11-24T15:15:16+00:00"
-  },
-  {
-   "title": "陳吉寧被調查：「清華系」失勢、「上海跳板」失靈與政治局委員落馬創紀錄",
-   "url": "https://www.bbc.com/zhongwen/articles/ck7v27vn9659o/trad?at_medium=RSS&at_campaign=rss",
-   "source": "BBC 中文",
-   "category": "world",
-   "summary": "陳吉寧落馬的時點尤其敏感：距離二十一大換屆不到一年，他本是外界觀察下屆常委佈局的關鍵人物，被查前僅僅六天仍在公開調研。",
-   "published": "2026-11-24T14:54:54+00:00"
-  },
-  {
-   "title": "「不能沒有你」：黃仁勳回歸，台灣股市的狂歡與半導體「 黑天鵝」風險",
-   "url": "https://www.bbc.com/zhongwen/articles/crp3eqg9l8eeo/trad?at_medium=RSS&at_campaign=rss",
-   "source": "BBC 中文",
-   "category": "world",
-   "summary": "黃仁勳在美國總統特朗普介入下重掌輝達，台灣股民在台股漲停板的氣氛大喊「爸爸回來了」。但「台灣乾爹」會再一次變成黑天鵝嗎？",
-   "published": "2026-11-24T14:35:36+00:00"
-  },
-  {
-   "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
-   "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
-   "source": "The Decoder",
-   "category": "ai",
-   "summary": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis. The claim that it ran to more than 250,0…",
-   "published": "2026-11-24T14:28:41+00:00"
-  },
-  {
-   "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
-   "url": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
-   "source": "NPR World",
-   "category": "world",
-   "summary": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titl…",
-   "published": "2026-11-24T14:24:04+00:00"
-  },
-  {
-   "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
-   "url": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
-   "source": "The Decoder",
-   "category": "ai",
-   "summary": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled. Both companies are in…",
-   "published": "2026-11-24T14:02:31+00:00"
-  },
-  {
-   "title": "18.79 万元起！比亚迪唐 EV 正式上市，砍掉七座换来 850km 续航，还有线控底盘",
-   "url": "https://www.ifanr.com/1691381?utm_source=rss&utm_medium=rss&utm_campaign",
-   "source": "爱范儿",
-   "category": "tech",
-   "summary": "十年之后，比亚迪唐终于卸下了第三排的担子。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "published": "2026-11-24T13:36:06+00:00"
+   "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+   "published": "2026-11-24T13:07:53+00:00"
   },
   {
    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -852,22 +998,6 @@
    "published": "2026-11-24T13:00:00+00:00"
   },
   {
-   "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
-   "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
-   "source": "NPR World",
-   "category": "world",
-   "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
-   "published": "2026-11-24T12:12:25+00:00"
-  },
-  {
-   "title": "实测小豆：主动办事的背后，AI 正在走向每一个人",
-   "url": "https://www.ifanr.com/1691355?utm_source=rss&utm_medium=rss&utm_campaign",
-   "source": "爱范儿",
-   "category": "tech",
-   "summary": "Personal Agent 的下半场，拼的是主动办事 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "published": "2026-11-24T11:04:40+00:00"
-  },
-  {
    "title": "Searching for distant planets with Astra",
    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
    "source": "OpenAI",
@@ -876,101 +1006,12 @@
    "published": "2026-11-24T11:00:00+00:00"
   },
   {
-   "title": "华为发布了大折叠手机和小折叠电脑，但 1 亿鸿蒙设备才是最大的亮点",
-   "url": "https://www.ifanr.com/1691302?utm_source=rss&utm_medium=rss&utm_campaign",
-   "source": "爱范儿",
-   "category": "tech",
-   "summary": "一亿台鸿蒙设备之后 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "published": "2026-11-24T10:30:04+00:00"
-  },
-  {
-   "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
-   "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
-   "source": "NPR World",
-   "category": "world",
-   "summary": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
-   "published": "2026-11-24T10:00:00+00:00"
-  },
-  {
-   "title": "Meet Colombia's fuzzy 'water guardians'",
-   "url": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
-   "source": "NPR World",
-   "category": "world",
-   "summary": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
-   "published": "2026-11-24T10:00:00+00:00"
-  },
-  {
-   "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
-   "url": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
-   "source": "NPR World",
-   "category": "world",
-   "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
-   "published": "2026-11-24T09:52:03+00:00",
-   "impact": true
-  },
-  {
    "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
    "url": "https://sspai.com/post/119492",
    "source": "少数派",
    "category": "tech",
    "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
    "published": "2026-11-24T09:14:11+00:00"
-  },
-  {
-   "title": "在一个长期相信考试可以改变命运的社会里，AI 已经开始动摇人们对成绩的信任",
-   "url": "https://www.ifanr.com/1691270?utm_source=rss&utm_medium=rss&utm_campaign",
-   "source": "爱范儿",
-   "category": "tech",
-   "summary": "AI 带来的技术平权，甚至把作弊的门槛也一并打了下来 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "published": "2026-11-24T09:09:14+00:00"
-  },
-  {
-   "title": "从构思到完稿，让长文写作更有条理：妙笔",
-   "url": "https://sspai.com/post/119035",
-   "source": "少数派",
-   "category": "tech",
-   "summary": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ... 查看全文",
-   "published": "2026-11-24T07:38:42+00:00"
-  },
-  {
-   "title": "「试用期」已到，苹果开始给 AI 收费了 | AG&I",
-   "url": "https://www.ifanr.com/1691186?utm_source=rss&utm_medium=rss&utm_campaign",
-   "source": "爱范儿",
-   "category": "tech",
-   "summary": "两年之期已到 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "published": "2026-11-24T05:55:23+00:00"
-  },
-  {
-   "title": "特朗普促成黄仁勋复职：派万斯斡旋，提供关键保证",
-   "url": "https://cn.nytimes.com/usa/20261124/trump-nvidia-huang/?utm_source=RSS",
-   "source": "纽约时报中文",
-   "category": "world",
-   "summary": "知情人士称，特朗普推动斡旋，令英伟达董事会确信黄仁勋没有面临刑事指控，也不构成国家安全风险。特朗普明确将黄仁勋复职与美国经济的健康联系在一起。 Haiyun Jiang/The New York Times 周五，特朗普总统在白宫。",
-   "published": "2026-11-24T03:56:31+00:00"
-  },
-  {
-   "title": "美国将Megaspeed列入贸易黑名单",
-   "url": "https://cn.nytimes.com/business/20261124/trump-administration-megaspeed-trade-blacklist-nvidia/?utm_source=RSS",
-   "source": "纽约时报中文",
-   "category": "world",
-   "summary": "Megaspeed正因涉嫌违法向中国走私芯片接受司法部的刑事调查。黄仁勋丑闻的核心人物黄乐曾担任该公司高管。特朗普政府内部就是否将该公司列入黑名单辩论了数周。 Taryn Ng/Agence France-Presse — Getty Images Megaspeed被列入实体清单后，未经政府许可，企业不得向该公司运送美国技术产品。",
-   "published": "2026-11-24T03:14:19+00:00"
-  },
-  {
-   "title": "写在动荡之后：漫步巴黎的寻常一日",
-   "url": "https://sspai.com/post/119412",
-   "source": "少数派",
-   "category": "tech",
-   "summary": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」 查看全文",
-   "published": "2026-11-24T03:03:10+00:00"
-  },
-  {
-   "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
-   "url": "https://sspai.com/post/119460",
-   "source": "少数派",
-   "category": "tech",
-   "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ... 查看全文",
-   "published": "2026-11-24T00:37:31+00:00"
   },
   {
    "title": "How Intentful uses dots to make more time for growth",
@@ -997,15 +1038,6 @@
    "published": "2026-11-24T00:00:00+00:00"
   },
   {
-   "title": "Russian incursions into NATO territory are increasing",
-   "url": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
-   "source": "NPR World",
-   "category": "world",
-   "summary": "NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday.",
-   "published": "2026-11-23T23:08:51+00:00",
-   "impact": true
-  },
-  {
    "title": "OpenAI and Cisco introduce Shirudo",
    "url": "https://openai.com/index/introducing-shirudo",
    "source": "OpenAI",
@@ -1020,14 +1052,6 @@
    "category": "ai",
    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic n…",
    "published": "2026-11-23T17:36:08+00:00"
-  },
-  {
-   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-   "url": "https://huggingface.co/blog/allenai/robotrack",
-   "source": "Hugging Face",
-   "category": "ai",
-   "summary": "",
-   "published": "2026-11-23T17:20:37+00:00"
   },
   {
    "title": "A more tailored Google Search that’s uniquely yours",
@@ -1070,14 +1094,6 @@
    "published": "2026-11-20T00:00:00+00:00"
   },
   {
-   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-   "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-   "source": "Hugging Face",
-   "category": "ai",
-   "summary": "",
-   "published": "2026-11-20T00:00:00+00:00"
-  },
-  {
    "title": "Introducing Tool Retrieval in the Gemini API",
    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
    "source": "Google AI",
@@ -1094,56 +1110,40 @@
    "published": "2026-11-19T17:00:00+00:00"
   },
   {
-   "title": "Introducing Gemini 4 Neon",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-   "source": "DeepMind",
-   "category": "ai",
-   "summary": "",
-   "published": "2026-11-18T21:35:43+00:00"
-  },
-  {
-   "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-   "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-   "source": "Hugging Face",
-   "category": "ai",
-   "summary": "",
-   "published": "2026-11-18T19:54:56+00:00"
-  },
-  {
-   "title": "Genie 4 is now available",
-   "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-   "source": "DeepMind",
-   "category": "ai",
-   "summary": "",
-   "published": "2026-11-18T18:13:42+00:00"
-  },
-  {
-   "title": "The Gemini app is now available on lower-memory Android devices.",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-   "source": "Google AI",
-   "category": "ai",
-   "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-   "published": "2026-11-18T17:00:00+00:00"
-  },
-  {
-   "title": "The AI Hype Index: AI is everywhere",
-   "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apa…",
-   "published": "2026-11-18T14:42:44+00:00"
-  },
-  {
-   "title": "This smell startup says its AI nose is as good as a human’s",
-   "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “p…",
-   "published": "2026-11-18T10:20:30+00:00"
-  },
-  {
    "title": "0% intro APR until 2024 is 100% insane",
    "url": "https://www.fool.com/the-ascent/credit-cards/landing/wells-fargo-reflect-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-welref2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn",
+   "source": "CNN World",
+   "category": "world",
+   "summary": "",
+   "published": ""
+  },
+  {
+   "title": "It's official: now avoid credit card interest into 2024",
+   "url": "https://www.fool.com/the-ascent/credit-cards/landing/citi-simplicity-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-citisimp2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn",
+   "source": "CNN World",
+   "category": "world",
+   "summary": "",
+   "published": ""
+  },
+  {
+   "title": "Experts: this is the best cash back card of 2022",
+   "url": "https://www.fool.com/the-ascent/credit-cards/landing/wells-fargo-active-cash-card-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-welac2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn",
+   "source": "CNN World",
+   "category": "world",
+   "summary": "",
+   "published": ""
+  },
+  {
+   "title": "Turn Your Rising Home Equity Into Cash You Can Use",
+   "url": "https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=risingequitycash_housemoneystack&placement_name=sectionfronts&ad_headline=risingequitycash&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616",
+   "source": "CNN World",
+   "category": "world",
+   "summary": "",
+   "published": ""
+  },
+  {
+   "title": "Dream Big with a Home Equity Loan",
+   "url": "https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=dreambighomeequity_housemoneystack&placement_name=sectionfronts&ad_headline=dreambighomeequity&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616",
    "source": "CNN World",
    "category": "world",
    "summary": "",
@@ -1156,173 +1156,173 @@
    "url": "https://github.com/Marvisak/VIctory",
    "desc": "An attempt at running GTA VI on PC",
    "lang": "Rust",
-   "stars": 11591,
-   "forks": 1719
+   "stars": 12689,
+   "forks": 2078
   },
   {
    "name": "erkamyaman/rust-anything",
    "url": "https://github.com/erkamyaman/rust-anything",
    "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every…",
    "lang": "Rust",
-   "stars": 9299,
-   "forks": 760
+   "stars": 9668,
+   "forks": 790
   },
   {
    "name": "xcl-dev/xcl",
    "url": "https://github.com/xcl-dev/xcl",
    "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system…",
    "lang": "Rust",
-   "stars": 7940,
-   "forks": 1061
-  },
-  {
-   "name": "deepseek-ai/chat-demo",
-   "url": "https://github.com/deepseek-ai/chat-demo",
-   "desc": "Chat Demo",
-   "lang": "TypeScript",
-   "stars": 5409,
-   "forks": 1293
+   "stars": 8346,
+   "forks": 1147
   },
   {
    "name": "Hut-hzf/ung220z-tool",
    "url": "https://github.com/Hut-hzf/ung220z-tool",
    "desc": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
    "lang": "Python",
-   "stars": 4556,
-   "forks": 992
-  },
-  {
-   "name": "EL4CTEO/fast-anything",
-   "url": "https://github.com/EL4CTEO/fast-anything",
-   "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot function…",
-   "lang": "Rust",
-   "stars": 3676,
-   "forks": 264
-  },
-  {
-   "name": "AFK-surf/xnulinux",
-   "url": "https://github.com/AFK-surf/xnulinux",
-   "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-   "lang": "Objective-C++",
-   "stars": 3490,
-   "forks": 160
-  },
-  {
-   "name": "Immortal-Protocols/lastbook",
-   "url": "https://github.com/Immortal-Protocols/lastbook",
-   "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
-   "lang": "Python",
-   "stars": 3059,
-   "forks": 377
+   "stars": 4947,
+   "forks": 1082
   },
   {
    "name": "4lwayz/portwatch-vi",
    "url": "https://github.com/4lwayz/portwatch-vi",
    "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
    "lang": "JavaScript",
-   "stars": 3033,
-   "forks": 80
+   "stars": 4345,
+   "forks": 130
+  },
+  {
+   "name": "EL4CTEO/fast-anything",
+   "url": "https://github.com/EL4CTEO/fast-anything",
+   "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot function…",
+   "lang": "Rust",
+   "stars": 4029,
+   "forks": 289
+  },
+  {
+   "name": "AFK-surf/xnulinux",
+   "url": "https://github.com/AFK-surf/xnulinux",
+   "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+   "lang": "C",
+   "stars": 3988,
+   "forks": 189
+  },
+  {
+   "name": "fxceless/victory-fork",
+   "url": "https://github.com/fxceless/victory-fork",
+   "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game file…",
+   "lang": "Rust",
+   "stars": 3112,
+   "forks": 908
+  },
+  {
+   "name": "sybil-solutions/inference-optimisation-skill",
+   "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+   "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTF…",
+   "lang": "Python",
+   "stars": 2716,
+   "forks": 245
   }
  ],
  "quotes": [
   {
    "symbol": "^GSPC",
    "name": "标普 500",
-   "price": 7201.09,
-   "change": -36.08,
-   "pct": -0.5,
+   "price": 7182.78,
+   "change": -18.31,
+   "pct": -0.25,
    "currency": "USD"
   },
   {
    "symbol": "^IXIC",
    "name": "纳斯达克",
-   "price": 23733.53,
-   "change": -356.02,
-   "pct": -1.48,
+   "price": 23585.8,
+   "change": -147.73,
+   "pct": -0.62,
    "currency": "USD"
   },
   {
    "symbol": "^DJI",
    "name": "道琼斯",
-   "price": 50018.7,
-   "change": 423.4,
-   "pct": 0.85,
+   "price": 50182.95,
+   "change": 164.25,
+   "pct": 0.33,
    "currency": "USD"
   },
   {
    "symbol": "^VIX",
    "name": "波动率指数",
-   "price": 26.36,
-   "change": -0.26,
-   "pct": -0.98,
+   "price": 28.29,
+   "change": 1.93,
+   "pct": 7.32,
    "currency": "USD"
   },
   {
    "symbol": "^TNX",
    "name": "美债 10 年",
-   "price": 4.9,
-   "change": -0.01,
-   "pct": -0.28,
+   "price": 4.85,
+   "change": -0.06,
+   "pct": -1.14,
    "currency": "USD"
   },
   {
    "symbol": "^HSI",
    "name": "恒生指数",
-   "price": 22265.68,
-   "change": -118.02,
-   "pct": -0.53,
+   "price": 22371.95,
+   "change": 405.94,
+   "pct": 1.85,
    "currency": "HKD"
   },
   {
    "symbol": "000001.SS",
    "name": "上证指数",
-   "price": 3512.66,
-   "change": -26.29,
-   "pct": -0.74,
+   "price": 3475.46,
+   "change": -1.01,
+   "pct": -0.03,
    "currency": "CNY"
   },
   {
    "symbol": "^N225",
    "name": "日经 225",
-   "price": 56993.85,
-   "change": -1650.78,
-   "pct": -2.81,
+   "price": 57822.08,
+   "change": 810.46,
+   "pct": 1.42,
    "currency": "JPY"
   },
   {
    "symbol": "GC=F",
    "name": "黄金",
-   "price": 3548.4,
-   "change": -13.5,
-   "pct": -0.38,
+   "price": 3608.8,
+   "change": 44.2,
+   "pct": 1.24,
    "currency": "USD"
   },
   {
    "symbol": "CL=F",
    "name": "原油",
-   "price": 80.76,
-   "change": -1.29,
-   "pct": -1.57,
+   "price": 84.42,
+   "change": 0.74,
+   "pct": 0.88,
    "currency": "USD"
   },
   {
    "symbol": "BTC-USD",
    "name": "比特币",
-   "price": 58975.95,
-   "change": -769.7,
-   "pct": -1.29,
+   "price": 60703.72,
+   "change": 325.15,
+   "pct": 0.54,
    "currency": "USD"
   },
   {
    "symbol": "DX-Y.NYB",
    "name": "美元指数",
-   "price": 103.97,
+   "price": 103.83,
    "change": 0.16,
-   "pct": 0.16,
+   "pct": 0.15,
    "currency": "USD"
   }
  ],
- "quote_at": "2026-11-25T04:47:53.939638+00:00",
+ "quote_at": "2026-11-26T03:58:47.135653+00:00",
  "sources": [
   {
    "name": "Hacker News",
